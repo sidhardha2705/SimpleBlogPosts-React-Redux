@@ -1,6 +1,9 @@
 # A Simple blogposts application!
 This app is built using React.js and Redux.js(for state management). API used : https://reduxblog.herokuapp.com/
 
+![capture](https://user-images.githubusercontent.com/36865844/47908403-70431680-de8d-11e8-817d-7df83901e491.PNG)
+
+
 ## Functionalities available
 - Add a Post
 - View all the Posts
